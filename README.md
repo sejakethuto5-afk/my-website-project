@@ -3,8 +3,8 @@
 ## Student Information
 
 Name: Thuto Sejake
-Course: (Your course name)
-Student Number: (Your student number)
+Course: Web Development 
+Student Number:ST10534511
 
 ## Project Overview
 
