@@ -34,3 +34,28 @@ The website provides information about the bakery, its products, and allows user
 ## Technologies Used
 
 * HTML
+* CSS
+* Visual Studio Code
+* GitHub
+* GitHub Desktop
+
+## changelog 
+
+### version 1.0
+- created multi-page website
+- added navigation link between pages
+- added bakery content and images
+
+### Version 2.0
+- added external CSS stylesheet
+- improved website styling and layout
+- add HTML comments
+- updated README document
+
+## References
+
+- W3Schools HTML Tutorial
+- W3Schools CSS Tutorial
+- MND Web Docs
+- Images used from free online sources
+
