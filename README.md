@@ -59,3 +59,13 @@ The website provides information about the bakery, its products, and allows user
 - MND Web Docs
 - Images used from free online sources
 
+## Part 3 Changelog
+
+- Added JavaScript form validation.
+- Added contact form.
+- Added product search functionality.
+- Added SEO meta tags.
+- Added robots.txt file.
+- Added sitemap.xml file.
+- Improved accessibility using alt text.
+- Prepared website for deployment.
